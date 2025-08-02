@@ -9,15 +9,18 @@
 <!-- Puedes subir una imagen y referenciarla aquí -->
 ![Preview](./preview.png)
 
+![Preview](./preview2.png)
+
 ---
 
 ## 🚀 Instalación
 
 1. Clona este repositorio:
+  Descarga el repositrio y usa los archivos confing.jsonc y style.css en tu configuracion local: ~/.config/waybarv/
+:
    ```bash
    git clone git@github.com:soaddevgit/WaybarTheme.git
    cd WaybarTheme
-
 ---
 
 ⚙️ Requisitos
