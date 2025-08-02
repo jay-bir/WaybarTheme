@@ -50,10 +50,10 @@ Puedes usarlo, modificarlo y compartirlo libremente.
 
 Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
 
-🔗 Configuración de Mohammad
+🔗 [Configuración de Mohammad](https://github.com/mhdzli/dotfiles/tree/home/.config/waybar)
 
-🔗 Dotfiles de woioeow
+🔗 [Dotfiles de woioeow](https://github.com/woioeow/hyprland-dotfiles.git) :Style 1
 
-🔗 Waybar de Whiteshadow
+🔗 [Waybar de Whiteshadow](https://github.com/elifouts/Dotfiles)
 
 🤖 Y bastantes consultas a la IA.
