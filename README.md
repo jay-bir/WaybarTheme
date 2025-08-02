@@ -6,9 +6,10 @@
 
 ## 📷 Capturas de pantalla
 
-<!-- Puedes subir una imagen y referenciarla aquí -->
+Imagen de referencia:
 ![Preview](./preview.png)
 
+Pantalla completa:
 ![Preview](./preview2.png)
 
 ---
@@ -16,34 +17,41 @@
 ## 🚀 Instalación
 
 1. Clona este repositorio:
-  Descarga el repositrio y usa los archivos confing.jsonc y style.css en tu configuracion local: ~/.config/waybarv/
-:
    ```bash
    git clone git@github.com:soaddevgit/WaybarTheme.git
-   cd WaybarTheme
+
+2. Copia los archivos en tu carpeta de configuración:
+  ```bash
+  cp WaybarTheme/* ~/.config/waybar/
+   
+```
 ---
 
 ⚙️ Requisitos
 
-    Waybar
+🧭 Waybar
 
-    Fuentes NerdFonts (recomendado)
+🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
 
-    Hyprland o cualquier compositor compatible con Waybar
+🖥️ Hyprland (o cualquier compositor compatible con Waybar)
     
     
 ---
 
 📄 Licencia
 
-MIT – puedes usarlo, modificarlo y compartirlo libremente.
+📝 MIT License
+Puedes usarlo, modificarlo y compartirlo libremente.
 
 ---
 
 🙌 Créditos
 
 Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
-  [Mohammad's configuration](https://github.com/mhdzli/dotfiles/tree/home/.config/waybar)
-  [woioeow's Configuration](https://github.com/woioeow/hyprland-dotfiles/tree/main)
-  [Whiteshadow's Configuration-->Waybar](https://github.com/elifouts/Dotfiles/tree/main/.config/waybar)
-  y bastantes consultas a la IA
+🔗 Configuración de Mohammad
+
+🔗 Dotfiles de woioeow
+
+🔗 Waybar de Whiteshadow
+
+🤖 Y bastantes consultas a la IA.
