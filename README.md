@@ -56,4 +56,6 @@ Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
 
 🔗 [Waybar de Whiteshadow](https://github.com/elifouts/Dotfiles)
 
+🔗 Wallpaper: [xtrafondos.com](https://www.xtrafondos.com/wallpaper/3840x2517/12224-paisaje-anime-arte-digital.html)
+
 🤖 Y bastantes consultas a la IA.
