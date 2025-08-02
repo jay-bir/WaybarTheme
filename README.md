@@ -18,22 +18,22 @@ Pantalla completa:
 
 1. Clona este repositorio:
    ```bash
-   git clone git@github.com:soaddevgit/WaybarTheme.git
+   git clone https://github.com/soaddevgit/WaybarTheme.git
 
 2. Copia los archivos en tu carpeta de configuración:
   ```bash
-  cp WaybarTheme/* ~/.config/waybar/
-   
+   cp WaybarTheme/* ~/.config/waybar/
+
 ```
 ---
 
 ⚙️ Requisitos
 
-🧭 Waybar
+🧭 Waybar
 
-🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
+🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
 
-🖥️ Hyprland (o cualquier compositor compatible con Waybar)
+🖥️ Hyprland (o cualquier compositor compatible con Waybar)
     
     
 ---
@@ -48,10 +48,10 @@ Puedes usarlo, modificarlo y compartirlo libremente.
 🙌 Créditos
 
 Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
-🔗 Configuración de Mohammad
+🔗 Configuración de Mohammad
 
-🔗 Dotfiles de woioeow
+🔗 Dotfiles de woioeow
 
-🔗 Waybar de Whiteshadow
+🔗 Waybar de Whiteshadow
 
-🤖 Y bastantes consultas a la IA.
+🤖 Y bastantes consultas a la IA.
