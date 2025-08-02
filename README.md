@@ -7,9 +7,11 @@
 ## 📷 Capturas de pantalla
 
 Imagen de referencia:
+
 ![Preview](./preview.png)
 
 Pantalla completa:
+
 ![Preview](./preview2.png)
 
 ---
@@ -24,16 +26,16 @@ Pantalla completa:
   ```bash
    cp WaybarTheme/* ~/.config/waybar/
 
-```
+    ```
 ---
 
 ⚙️ Requisitos
 
-🧭 Waybar
+🧭 Waybar
 
-🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
+🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
 
-🖥️ Hyprland (o cualquier compositor compatible con Waybar)
+🖥️ Hyprland (o cualquier compositor compatible con Waybar)
     
     
 ---
@@ -48,10 +50,11 @@ Puedes usarlo, modificarlo y compartirlo libremente.
 🙌 Créditos
 
 Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
-🔗 Configuración de Mohammad
 
-🔗 Dotfiles de woioeow
+🔗 Configuración de Mohammad
 
-🔗 Waybar de Whiteshadow
+🔗 Dotfiles de woioeow
 
-🤖 Y bastantes consultas a la IA.
+🔗 Waybar de Whiteshadow
+
+🤖 Y bastantes consultas a la IA.
