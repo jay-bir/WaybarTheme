@@ -23,10 +23,9 @@ Pantalla completa:
    git clone https://github.com/soaddevgit/WaybarTheme.git
 
 2. Copia los archivos en tu carpeta de configuración:
-  ```bash
+   ```bash
    cp WaybarTheme/* ~/.config/waybar/
 
-    ```
 ---
 
 ⚙️ Requisitos
