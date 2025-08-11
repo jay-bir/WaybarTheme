@@ -1,61 +1,61 @@
 # WaybarTheme
 
-🎨 Un tema personalizado para [Waybar](https://github.com/Alexays/Waybar) en entornos con Hyprland y otros window managers compatibles con barras de estado basadas en GTK y CSS.
+🎨 A custom them for [Waybar](https://github.com/Alexays/Waybar), designed for environments using Hyprland and other window managers compatible with status bars based on GTK and CSS.
 
 ---
 
-## 📷 Capturas de pantalla
+## 📷 Screenshots
 
-Imagen de referencia:
+Reference image:
 
 ![Preview](./preview.png)
 
-Pantalla completa:
+Full screen:
 
 ![Preview](./preview2.png)
 
 ---
 
-## 🚀 Instalación
+## 🚀 Installation
 
-1. Clona este repositorio:
+1. Clone this repository:
    ```bash
    git clone https://github.com/soaddevgit/WaybarTheme.git
 
-2. Copia los archivos en tu carpeta de configuración:
+2. Copy the files to your conf folder:
    ```bash
    cp WaybarTheme/* ~/.config/waybar/
 
 ---
 
-⚙️ Requisitos
+⚙️ Requirements
 
 🧭 Waybar
 
-🔤 Fuentes NerdFonts (recomendado para una mejor visualización de íconos y glifos)
+🔤 NerdFonts Font(recommended for better icon and glyph rendering)
 
-🖥️ Hyprland (o cualquier compositor compatible con Waybar)
+🖥️ Hyprland (or any compositor compatible with Waybar)
     
     
 ---
 
-📄 Licencia
+📄 License
 
 📝 MIT License
-Puedes usarlo, modificarlo y compartirlo libremente.
+Feel free to use, modify, and share.
 
 ---
 
-🙌 Créditos
+🙌 Credits
 
-Inspirado en otros temas de la comunidad de Wayland y personalizaciones:
+Inspired by other themes and community customizations:
 
-🔗 [Configuración de Mohammad](https://github.com/mhdzli/dotfiles/tree/home/.config/waybar)
+🔗 [Mohammad's Configuration](https://github.com/mhdzli/dotfiles/tree/home/.config/waybar)
 
-🔗 [Dotfiles de woioeow](https://github.com/woioeow/hyprland-dotfiles.git) :Style 1
+🔗 [woioeow's Configuration](https://github.com/woioeow/hyprland-dotfiles.git) :Style 1
 
-🔗 [Waybar de Whiteshadow](https://github.com/elifouts/Dotfiles)
+🔗 [Whiteshadow's Configuration](https://github.com/elifouts/Dotfiles)
 
 🔗 Wallpaper: [xtrafondos.com](https://www.xtrafondos.com/wallpaper/3840x2517/12224-paisaje-anime-arte-digital.html)
 
-🤖 Y bastantes consultas a la IA.
+🤖 And quite a few AI-assisted queries.
