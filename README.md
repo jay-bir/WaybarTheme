@@ -1,6 +1,6 @@
 # WaybarTheme
 
-🎨 A custom them for [Waybar](https://github.com/Alexays/Waybar), designed for environments using Hyprland and other window managers compatible with status bars based on GTK and CSS.
+🎨 A custom theme for [Waybar](https://github.com/Alexays/Waybar), designed for environments using Hyprland and other window managers compatible with status bars based on GTK and CSS.
 
 ---
 
@@ -42,6 +42,7 @@ Full screen:
 📄 License
 
 📝 MIT License
+
 Feel free to use, modify, and share.
 
 ---
