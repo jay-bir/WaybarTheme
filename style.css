@@ -1,4 +1,4 @@
-/* -- Reglas globales -- */
+/* -- Global rules -- */
 * {
   border: none;
   font-family: "JetbrainsMono Nerd Font";
@@ -14,7 +14,7 @@ window#waybar.hidden {
   opacity: 0.2;
 }
 
-/* - Reglas generales para módulos visibles -- */
+/* - Genera rules for visible modules -- */
 #custom-archicon,
 #clock,
 #cpu,
@@ -34,7 +34,7 @@ window#waybar.hidden {
   transition: none;
 }
 
-/* modulo separacion izquierdo */
+/* Separation to the left */
 #custom-archicon,
 #cpu,
 #idle_inhibitor {
@@ -43,7 +43,7 @@ window#waybar.hidden {
   border-bottom-left-radius: 10px;
 }
 
-/* modulo separacion derecha */
+/* Separation to the rigth */
 #clock,
 #temperature,
 #language {
@@ -52,9 +52,9 @@ window#waybar.hidden {
   border-bottom-right-radius: 10px;
 }
 
-/* -- Estilos específicos -- */
+/* -- Specific styles -- */
 
-/* Modulos izquierda*/
+/* Modules left */
 #custom-archicon {
   font-size: 20px;
   color: #89B4FA;
@@ -82,7 +82,7 @@ window#waybar.hidden {
   background: #F8BD96;
 }
 
-/* Modulos centro */
+/* Modules center */
 #workspaces {
   background: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
@@ -112,7 +112,7 @@ window#waybar.hidden {
 
 #workspaces button.active:hover {}
 
-/* Modulos derecha */
+/* Modules right */
 #taskbar {
   background: transparent;
   border-radius: 10px;
@@ -160,7 +160,7 @@ window#waybar.hidden {
   padding-right: 15px;
 }
 
-/* === Animación opcional (si deseas usarla más adelante) === */
+/* === Optional animation === */
 @keyframes blink {
   to {
     background-color: #BF616A;
