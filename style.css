@@ -1,7 +1,7 @@
 /* -- Global rules -- */
 * {
   border: none;
-  font-family: "JetbrainsMono Nerd Font";
+  font-family: "Hurmit Nerd Font";
   font-size: 15px;
   min-height: 10px;
 }
@@ -23,7 +23,7 @@ window#waybar.hidden {
 #temperature,
 #idle_inhibitor,
 #pulseaudio,
-#pulseaudio_slider,
+#pulseaudio-slider,
 #network,
 #language {
   color: #161320;
@@ -145,9 +145,26 @@ window#waybar.hidden {
   background: #F5E0DC;
 }
 
-#pulseaudio_slider {
+#pulseaudio-slider {
   color: #1A1826;
   background: #E8A2AF;
+  min-width: 6rem;
+}
+
+#pulseaudio-slider slider {
+    min-height: 0px;
+    min-width: 0px;
+    opacity: 0;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+}
+#pulseaudio-slider trough {
+  background-color: rgba(0, 0, 0, .4)
+}
+#pulseaudio-slider highlight {
+
+   background-color: #555879;
 }
 
 #network {
